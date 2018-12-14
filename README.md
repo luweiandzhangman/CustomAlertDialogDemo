@@ -1,13 +1,8 @@
 # CustomAlertDialogDemo
 自定义AlertDialog,高仿ios提示弹框,属性完全可以自定义,底部弹出,中间弹出都可,使用超简单,一套自定义控件解决项目中各种需要的弹框
 
-![imgag](https://github.com/luweiandzhangman/CustomAlearDialogDemo/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20181214153423.jpg)
-![imgag](https://github.com/luweiandzhangman/CustomAlearDialogDemo/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20181214153419.jpg)
-![imgag](https://github.com/luweiandzhangman/CustomAlearDialogDemo/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20181214153416.jpg)
-![imgag](https://github.com/luweiandzhangman/CustomAlearDialogDemo/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20181214153413.jpg)
-![imgag](https://github.com/luweiandzhangman/CustomAlearDialogDemo/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20181214153407.jpg)
-![imgag](https://github.com/luweiandzhangman/CustomAlearDialogDemo/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20181214153403.jpg)
-![imgag](https://github.com/luweiandzhangman/CustomAlearDialogDemo/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20181214153354.jpg)
+
+![imgag](https://github.com/luweiandzhangman/CustomAlertDialogDemo/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20181214153423_%E5%89%AF%E6%9C%AC.jpg)
 
 
 使用方法
