@@ -1,5 +1,5 @@
-# CustomAlearDialogDemo
-自定义AlearDialog,高仿ios提示弹框,属性完全可以自定义,底部弹出,中间弹出都可,使用超简单,一套自定义控件解决项目中各种需要的弹框
+# CustomAlertDialogDemo
+自定义AlertDialog,高仿ios提示弹框,属性完全可以自定义,底部弹出,中间弹出都可,使用超简单,一套自定义控件解决项目中各种需要的弹框
 
 ![imgag](https://github.com/luweiandzhangman/CustomAlearDialogDemo/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20181214153423.jpg)
 ![imgag](https://github.com/luweiandzhangman/CustomAlearDialogDemo/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20181214153419.jpg)
