@@ -11,10 +11,14 @@
 
 
 使用方法
-下载demo,拿到控件
+下载demo,拿到控件--下面直接链式调用就OK
 
 
-new CustomAlertDialog(this)
+
+                        
+                        
+                      
+    new CustomAlertDialog(this)
                         .builder()
                         .setCancelable(true)
                         .setTitle("标题加粗")
